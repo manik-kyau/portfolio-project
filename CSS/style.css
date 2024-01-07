@@ -46,6 +46,7 @@ nav ul li a{
     font-weight: bold;
     color: #474747;
 }
+/*  banner styling   */
 .banner{
     display: flex;
     padding: 30px 30px 0px 150px;
@@ -144,7 +145,6 @@ section{
 }
 /*styling  Section 3 */
 .resume-container{
-    padding: 50px 150px;
     display: flex;
     justify-content: space-between;
 }
@@ -155,9 +155,11 @@ section{
 .resume-column{
     width: 360px;
 }
+/*
 .resume-item{
     margin: 10px 0px;
 }
+*/
 .resume-item-title{
     color: #474747;
     margin-bottom: 0px;
